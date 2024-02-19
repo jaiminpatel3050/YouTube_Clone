@@ -1,0 +1,14 @@
+.example-card {
+    width: 350px;
+    height: 300px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+
+  .image-size {
+    width: 350px;
+    height: 200px;
+  }
